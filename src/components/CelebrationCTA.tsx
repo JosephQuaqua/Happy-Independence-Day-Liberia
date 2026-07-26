@@ -58,7 +58,7 @@ export function CelebrationCTA({ onCelebrate, celebrating }: CelebrationCTAProps
             transition={{ duration: 0.8, delay: 0.3 }}
           >
             <p className="font-display text-3xl font-bold text-white sm:text-4xl md:text-5xl">
-              Happy 179th Independence Day, Liberia! 
+              Happy 179th Independence Day, Liberia! 🇱🇷
             </p>
             <p className="font-display text-xl text-white/80 sm:text-2xl">
               May Liberia continue to rise, shine, and prosper.
